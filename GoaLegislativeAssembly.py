@@ -1,9 +1,9 @@
-//Author:Sabah Sayed
-//Roll No.:37
-//Title:Implementation of Goa Legislative Assembly using OOP concept
-//Start Date:22 july 2024
-//Modified Date:22 july 2024
-//Description:Implementation of Goa Legislative Assembly using OOP concept.This program has Main class, Member class, Committe class, Bill class.
+#Author:Sabah Sayed
+#Roll No.:37
+#Title:Implementation of Goa Legislative Assembly using OOP concept
+#Start Date:22 july 2024
+#Modified Date:22 july 2024
+#Description:Implementation of Goa Legislative Assembly using OOP concept.This program has Main class, Member class, Committe class, Bill class.
 
 class Member:
     def __init__(self, name, constituency):
